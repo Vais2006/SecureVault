@@ -361,4 +361,3 @@ This project helped in understanding:
 
 Developed as a secure offline authentication and database protection system using Python and PyQt5.
 
-Developed as a secure offline authentication and database protection system using Python and PyQt5.
